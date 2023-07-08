@@ -7,5 +7,5 @@ npm list -g --all
 ## List globally installed packages at depth 0
 
 ```bash
-npm list -g depth=0
+npm list -g --depth=0
 ```
